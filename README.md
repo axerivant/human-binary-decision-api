@@ -1,7 +1,7 @@
 
 ## summary
 
-While watching an episode of thesci-fi tv series 'Westworld', one particular line caught my attention.
+While watching an episode of the sci-fi tv series 'Westworld', one particular line caught my attention.
 
 > A human is just an algorthm of less than 12000 lines.
 
